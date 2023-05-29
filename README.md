@@ -20,7 +20,6 @@ The following team members worked on the server:
   - [Pavlo Lipchanskyi]
     [Павло Липчанський](https://github.com/Pablo-Lipchanskyi)
   - [Oleksandr Podoliako][Олександр Подоляко](https://github.com/BlackyHat)
-  - [Mykola Liakh] [Микола Лях](https://github.com/Nikolaylyah)
   - [Igor Yurovskyi] [Игорь Юровский](https://github.com/Mastermind2025)
 
 ## Installation and Usage
